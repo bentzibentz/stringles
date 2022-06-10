@@ -1,5 +1,5 @@
-import MyLibrary from '../index';
+import Stringles from '../index';
 
 it('Runs without crashing', () => {
-  new MyLibrary();
+  new Stringles();
 });
