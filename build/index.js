@@ -1,6 +1,6 @@
 /*!
  * 
- *   stringles v0.0.0
+ *   stringles v0.0.1
  *   https://github.com/bentzibentz/stringles
  *
  *   Copyright (c) Fabian Bentz (https://github.com/bentzibentz) and project contributors.
