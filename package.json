@@ -1,6 +1,6 @@
 {
   "name": "stringles",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Typescript based string handeling library",
   "main": "build/index.js",
   "types": "build/types/index.d.ts",
